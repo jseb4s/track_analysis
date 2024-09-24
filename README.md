@@ -1,9 +1,10 @@
 # track_analysis
 
-La solución está alojada en la rama 01_initial_charge. A continuación, se detallan los contenidos de los notebooks y las carpetas:
+# Solución en la rama `01_initial_charge`
 
-Notebook conexion.ipynb: Desarrollo de las conexiones a la base de datos, creación de archivos Parquet y análisis descriptivo.
-Notebook cluster.ipynb: Desarrollo en Python de la segmentación y el respectivo árbol de decisión.
-Carpeta files: Archivos Parquet generados.
-Carpeta dashboard: Dashboard con visuales y KPIs de negocio, así como la visualización y caracterización de la segmentación desarrollada en Python.
-Quedo muy atento a tus comentarios y confirmación de recibido. ¡Muchas gracias!
+A continuación, se detallan los contenidos de los notebooks y las carpetas:
+
+- **Notebook `conexion.ipynb`**: Desarrollo de las conexiones a la base de datos, creación de archivos Parquet y análisis descriptivo.
+- **Notebook `cluster.ipynb`**: Desarrollo en Python de la segmentación y el respectivo árbol de decisión.
+- **Carpeta `files`**: Archivos Parquet generados.
+- **Carpeta `dashboard`**: Dashboard con visuales y KPIs de negocio, así como la visualización y caracterización de la segmentación desarrollada en Python.
