@@ -1,7 +1,5 @@
 # track_analysis
 
-# Solución en la rama `01_initial_charge`
-
 A continuación, se detallan los contenidos de los notebooks y las carpetas:
 
 - **Notebook `conexion.ipynb`**: Desarrollo de las conexiones a la base de datos, creación de archivos Parquet y análisis descriptivo.
